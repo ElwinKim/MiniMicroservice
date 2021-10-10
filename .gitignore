@@ -1,1 +1,4 @@
-node_module/
+client/node_module/
+comments/node_module/
+posts/node_module/
+
